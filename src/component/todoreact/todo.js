@@ -78,7 +78,7 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="./images/todo.svg" alt="todologo" />
+            <img src="https://img.freepik.com/premium-vector/doodle-list-icon-logo-hand-drawn-with-thin-black-line-isolated-white-background-vector-illustration_92242-930.jpg" alt="todologo" />
             <figcaption>Add Your List Here ✌</figcaption>
           </figure>
           <div className="addItems">
